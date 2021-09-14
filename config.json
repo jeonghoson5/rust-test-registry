@@ -2,4 +2,5 @@
     "dl": "http://127.0.0.1:8855/api/v1/crates/{crate}/{version}/download",
     "api": "http://127.0.0.1:8855",
     "allowed-registries": ["https://github.com/rust-lang/crates.io-index"]
+
 }
